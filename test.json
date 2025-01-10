@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/mayank-s16/swagger-test/test.yaml",
+    "url": "https://raw.githubusercontent.com/mayank-s16/swagger-test/refs/heads/main/test.yaml",
     "urls": [
         {
-            "url": "https://github.com/mayank-s16/swagger-test/test.yaml",
+            "url": "https://raw.githubusercontent.com/mayank-s16/swagger-test/refs/heads/main/test.yaml",
             "name": "Foo"
         }
     ]
